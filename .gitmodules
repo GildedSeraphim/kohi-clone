@@ -1,0 +1,3 @@
+[submodule "kohi"]
+	path = kohi
+	url = git@github.com:GildedSeraphim/kohi.git
